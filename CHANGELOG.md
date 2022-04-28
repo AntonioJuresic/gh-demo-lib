@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.3]
+### Changed
+- Added author name
+### Added
+- Added Author name
+
 ## [0.1.2]
 ### Changed
 - ADD CHANGES HERE
