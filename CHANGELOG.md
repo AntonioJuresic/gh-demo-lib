@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.43]
+### Changed
+- Added author company
+### Added
+- Added Author company
+
 ## [0.1.3]
 ### Changed
 - Added author name

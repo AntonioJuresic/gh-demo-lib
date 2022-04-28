@@ -2,6 +2,7 @@ package com.ag04.utils;
 
 /**
  * author AntonioJuresic
+ * company Agency04
  */
 public interface DummyService {
     
